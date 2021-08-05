@@ -1,6 +1,6 @@
-# Statistical-Machine-Learning
-A showcase of some machine learning techniques. 
-Water treatment clustering focuses on unsupervised learning. 
-Concrete modelling focuses on supervised learning.
+# Basic Machine Learning Showcase
 
-Links to the datasets are found in the reports, under the 'References' section.
+A showcase of some machine learning techniques, both supervised and unsupervised. 
+
+This project was submitted as final assignment for the Statistica Machine Learning class, MsC in Data Science and Economics, University of Milan.
+
